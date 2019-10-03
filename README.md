@@ -7,6 +7,8 @@ The goal of this assignment is to construct, analyze, and publish a dataset of m
 # License
 Source data is made available by the Wikimedia Foundation under a CC-BY-SA 30 license. The Wikimedia Foundation REST API terms of use are available at: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
+This code is made available under an MIT license (see license.txt).
+
 # API documentation
 API documentation is available at https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews (Pageview) and https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts (Pagecount)
 
@@ -15,12 +17,19 @@ This code is made available for re-use under a [CC0 license](https://creativecom
 # Exported data 
 The final datafile - en-wikipedia_traffic_200712-201809.csv - contains pageview statistics for English Wikipedia from 2008 to August 2019. It contains the followign fields:
 year	YYYY 
+
 month	MM 
+
 pagecount_all_views	num_views (numeric)
+
 pagecount_desktop_views	num_views (numeric)
+
 pagecount_mobile_views	num_views (numeric)
+
 pageview_all_views	num_views (numeric)
+
 pageview_desktop_views	num_views (numeric)
+
 pageview_mobile_views	num_views (numeric)
 
 # Other files
