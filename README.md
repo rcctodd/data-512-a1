@@ -18,7 +18,7 @@ This code is made available for re-use under a [CC0 license](https://creativecom
 The final datafile - en-wikipedia_traffic_200712-201809.csv - contains pageview statistics for English Wikipedia from 2008 to August 2019. It contains the following fields: 'year' (YYYY),  'month' (MM),  'pagecount_all_views' (no. of views, numeric), 'pagecount_desktop_views' (no. of views, numeric), 'pagecount_mobile_views' (no. of views, numeric), 'pageview_all_views' (no. of views, numeric),  'pageview_desktop_views' (no. of views, numeric), and 'pageview_mobile_views' (no. of views, numeric).
 
 # Other files
-Included in this repository are JSON files of data retrieved from the APIS (September 2019) and a visualization produced by the script.
+Included in this repository are JSON files of data retrieved from the APIS (28 September 2019) and a visualization produced by the script.
 
 
 # Known issues and special considerations
